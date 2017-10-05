@@ -1,0 +1,15 @@
+{
+  "name": "food-api",
+  "version": "1.0.0",
+  "description": "Data API for keeping track of nutrition information. Like a food/nutrition tracker/diary.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "mongoose": "^4.12.0"
+  }
+}
